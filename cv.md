@@ -1,4 +1,4 @@
-Name: Anastasiia Bitkina  
+Name: Anastasiia Bitkina, Budva, Montenegro  
 Achievements:
 - PHD in teaching sceinces  
 Other:  

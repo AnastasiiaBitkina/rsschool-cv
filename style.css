@@ -26,3 +26,9 @@ footer{
     font-weight:700;
     font-family: Arial, Helvetica, sans-serif;
 }
+.my_text {
+    font-size: 24px;
+    color: #2F4F4F;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+}
